@@ -1,0 +1,6 @@
+1. Replace target variable in each `models/notebooks` according to you IoT device
+2. Encode all string variables to Numeric using LabelEncoder in in each `models/notebooks` and 'client.ipynb'
+3. In LR and SVM, set iloc upper limit as the row number where second class of label has been introduced in 'merged_data.csv'
+4. Train all models in `models/notebooks`
+5. Run `server.ipynb`
+6. Run `client.ipynb`
