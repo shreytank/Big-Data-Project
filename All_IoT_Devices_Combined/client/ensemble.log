@@ -1,36 +1,23 @@
 
-2022-05-27 23:54:22.784944 ~ Model v1
-SVC: 0.85
-LogisticRegression: 0.95
+2022-05-28 19:07:12.586536 ~ Model v1
+SVC: 0.8641975308641975
+LogisticRegression: 1.0
 RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.95
-KNeighborsClassifier: 0.8125
+LinearDiscriminantAnalysis: 0.9259259259259259
+KNeighborsClassifier: 0.8395061728395061
 DecisionTreeClassifier: 1.0
-GaussianNB: 0.9625
-VotingClassifier: 0.975
+GaussianNB: 0.9259259259259259
+VotingClassifier: 0.9629629629629629
 
 --------------------
 
 
-2022-05-27 23:54:25.851753 ~ Model v2
+2022-05-28 19:07:14.566776 ~ Model v2
 SVC: 1.0
 LogisticRegression: 0.75
 RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.75
-KNeighborsClassifier: 0.75
-DecisionTreeClassifier: 0.75
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 23:54:30.374530 ~ Model v3
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.875
-KNeighborsClassifier: 1.0
+LinearDiscriminantAnalysis: 0.0
+KNeighborsClassifier: 0.5
 DecisionTreeClassifier: 1.0
 GaussianNB: 1.0
 VotingClassifier: 1.0
@@ -38,20 +25,7 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-27 23:54:47.289342 ~ Model v4
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 0.96875
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 23:55:04.212521 ~ Model v5
+2022-05-28 19:07:18.625273 ~ Model v3
 SVC: 1.0
 LogisticRegression: 1.0
 RandomForestClassifier: 1.0
@@ -60,3 +34,16 @@ KNeighborsClassifier: 1.0
 DecisionTreeClassifier: 1.0
 GaussianNB: 1.0
 VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 19:07:52.079694 ~ Model v4
+SVC: 0.9846153846153847
+LogisticRegression: 0.9692307692307692
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 0.9692307692307692
+KNeighborsClassifier: 0.9846153846153847
+DecisionTreeClassifier: 1.0
+GaussianNB: 0.9846153846153847
+VotingClassifier: 0.9846153846153847
