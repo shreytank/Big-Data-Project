@@ -1,9 +1,9 @@
 
-2022-05-27 17:56:55.563158 ~ Model v1
+2022-05-28 19:12:48.121839 ~ Model v1
 SVC: 1.0
 LogisticRegression: 1.0
 RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.5125
+LinearDiscriminantAnalysis: 0.4875
 KNeighborsClassifier: 1.0
 DecisionTreeClassifier: 1.0
 GaussianNB: 1.0
@@ -12,20 +12,7 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-27 17:57:04.177522 ~ Model v2
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 17:57:37.656007 ~ Model v3
+2022-05-28 19:12:52.727979 ~ Model v2
 SVC: 1.0
 LogisticRegression: 1.0
 RandomForestClassifier: 1.0
@@ -38,7 +25,33 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-27 17:57:46.236261 ~ Model v4
+2022-05-28 19:13:10.174593 ~ Model v3
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 0.984375
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 19:13:14.780276 ~ Model v4
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 0.9375
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 19:13:19.366550 ~ Model v5
 SVC: 1.0
 LogisticRegression: 1.0
 RandomForestClassifier: 1.0
@@ -51,7 +64,7 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-27 17:57:54.826101 ~ Model v5
+2022-05-28 19:13:20.757396 ~ Model v6
 SVC: 1.0
 LogisticRegression: 1.0
 RandomForestClassifier: 1.0
@@ -64,11 +77,11 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-27 17:57:57.203760 ~ Model v6
+2022-05-28 19:13:38.536645 ~ Model v7
 SVC: 1.0
 LogisticRegression: 1.0
 RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 1.0
+LinearDiscriminantAnalysis: 0.859375
 KNeighborsClassifier: 1.0
 DecisionTreeClassifier: 1.0
 GaussianNB: 1.0
@@ -77,89 +90,11 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-27 17:58:14.050000 ~ Model v7
+2022-05-28 19:22:46.874643 ~ Model v8
 SVC: 1.0
 LogisticRegression: 1.0
 RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 17:58:18.491032 ~ Model v8
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 17:58:35.390500 ~ Model v9
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.46875
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 18:07:23.869228 ~ Model v10
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.998046875
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 18:07:40.966698 ~ Model v11
-SVC: 1.0
-LogisticRegression: 0.96875
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.96875
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 18:08:14.215128 ~ Model v12
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-GaussianNB: 1.0
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-27 18:12:38.037620 ~ Model v13
-SVC: 1.0
-LogisticRegression: 1.0
-RandomForestClassifier: 1.0
-LinearDiscriminantAnalysis: 0.537109375
+LinearDiscriminantAnalysis: 0.80615234375
 KNeighborsClassifier: 1.0
 DecisionTreeClassifier: 1.0
 GaussianNB: 1.0
