@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The aim of this project has been to experiment in the field of big data which we accomplished by setting up our own data streaming model between a server and a client and then applied ensemble method to train the chunked data based on the following models – *LR*, *SVM*, *RF*, *LDA*, *KNN*, *CART* and *Naive-Bayes*. For this project, I chose `IoT_Garage_Door` data from TON IoT datasets and the `label`(type of attack) as target variable.
+The aim of this project has been to experiment in the field of big data which we accomplished by setting up our own data streaming model between a server and a client and then applied ensemble method to train the chunked data based on the following models – *LR*, *SVM*, *RF*, *LDA*, *KNN*, *CART* and *Naive-Bayes*. For this project, I chose `IoT_Linux_Disk` data from TON IoT datasets and the `label`(type of attack) as target variable.
 
 ## File Structure Breakdown
 
@@ -13,8 +13,9 @@ The aim of this project has been to experiment in the field of big data which we
 │   ├── ensemble.log    # logs generated while ensemble model training
 │   └── stream.log    # logs generated while data streaming
 ├── data
-│   ├── IoT_Garage_Door.csv    # IoT_Garage_Door raw data
-│   └── test_garage.csv    # prepared from 'IoT_Garage_Door.csv'
+│   ├── IoT_Linux_Disk.csv    # IoT_Linux_Disk combined data
+│   └── linux_disk_1.csv    # IoT_Linux_Disk data part 1
+│   └── linux_disk_2.csv    # IoT_Linux_Disk data part 2
 ├── models
 │   ├── h5s    # model structure stored in '.h5' format
 │   │   ├── CART.h5
