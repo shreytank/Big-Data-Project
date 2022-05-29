@@ -1,7 +1,0 @@
-1. Replace `IoT_Garage_Door.csv` with your IoT data.
-2. `test_garage.csv` is modified version of `IoT_Garage_Door.csv`, such that a different label appears earlier, This has been done by deleting rows that occur in between changing label values 
-3. Encode all string variables to Numeric using LabelEncoder in in each `models/notebooks` and 'client.ipynb'
-4. In LR and SVM, set iloc upper limit as the row number where second class of label has been introduced in 'merged_data.csv'
-5. Train all models in `models/notebooks`
-6. Run `server.ipynb`
-7. Run `client.ipynb`
