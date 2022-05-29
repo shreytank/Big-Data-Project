@@ -1,0 +1,114 @@
+
+2022-05-28 20:15:40.323306 ~ Model v1
+SVC: 0.9875
+LogisticRegression: 0.9875
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 0.95
+KNeighborsClassifier: 0.9875
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 0.9875
+
+--------------------
+
+
+2022-05-28 20:15:45.315420 ~ Model v2
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 20:15:50.292447 ~ Model v3
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 20:15:55.222497 ~ Model v4
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 20:15:57.873227 ~ Model v5
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 20:16:00.572301 ~ Model v6
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 0.75
+KNeighborsClassifier: 0.75
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 20:16:03.214299 ~ Model v7
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 20:16:05.911873 ~ Model v8
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-28 20:16:08.666660 ~ Model v9
+SVC: 1.0
+LogisticRegression: 1.0
+RandomForestClassifier: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+GaussianNB: 1.0
+VotingClassifier: 1.0
