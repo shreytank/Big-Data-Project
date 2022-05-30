@@ -1,18 +1,31 @@
 
-2022-05-29 18:35:50.718549 ~ Model v1
-RandomForestClassifier: 0.5875
-LogisticRegression: 0.5875
-LinearDiscriminantAnalysis: 0.5875
-KNeighborsClassifier: 0.425
-DecisionTreeClassifier: 0.5875
-SVC: 0.5875
-GaussianNB: 0.5875
-VotingClassifier: 0.5875
+2022-05-29 21:12:50.353584 ~ Model v1
+RandomForestClassifier: 0.525
+LogisticRegression: 0.525
+LinearDiscriminantAnalysis: 0.525
+KNeighborsClassifier: 0.525
+DecisionTreeClassifier: 0.525
+SVC: 0.525
+GaussianNB: 0.525
+VotingClassifier: 0.525
 
 --------------------
 
 
-2022-05-29 18:35:55.441162 ~ Model v2
+2022-05-29 21:12:59.169381 ~ Model v2
+RandomForestClassifier: 0.875
+LogisticRegression: 0.875
+LinearDiscriminantAnalysis: 0.875
+KNeighborsClassifier: 0.875
+DecisionTreeClassifier: 0.875
+SVC: 0.875
+GaussianNB: 0.125
+VotingClassifier: 0.875
+
+--------------------
+
+
+2022-05-29 21:13:16.268183 ~ Model v3
 RandomForestClassifier: 1.0
 LogisticRegression: 1.0
 LinearDiscriminantAnalysis: 1.0
@@ -25,59 +38,20 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-29 18:36:13.346978 ~ Model v3
-RandomForestClassifier: 1.0
-LogisticRegression: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-SVC: 1.0
+2022-05-29 21:13:33.083131 ~ Model v3
+RandomForestClassifier: 0.984375
+LogisticRegression: 0.984375
+LinearDiscriminantAnalysis: 0.984375
+KNeighborsClassifier: 0.984375
+DecisionTreeClassifier: 0.984375
+SVC: 0.984375
 GaussianNB: 0.859375
-VotingClassifier: 1.0
+VotingClassifier: 0.984375
 
 --------------------
 
 
-2022-05-29 18:36:18.403518 ~ Model v4
-RandomForestClassifier: 1.0
-LogisticRegression: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-SVC: 1.0
-GaussianNB: 0.125
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-29 18:36:23.535055 ~ Model v5
-RandomForestClassifier: 1.0
-LogisticRegression: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-SVC: 1.0
-GaussianNB: 0.0625
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-29 18:36:26.528594 ~ Model v6
-RandomForestClassifier: 1.0
-LogisticRegression: 1.0
-LinearDiscriminantAnalysis: 1.0
-KNeighborsClassifier: 1.0
-DecisionTreeClassifier: 1.0
-SVC: 1.0
-GaussianNB: 0.125
-VotingClassifier: 1.0
-
---------------------
-
-
-2022-05-29 18:36:31.857940 ~ Model v7
+2022-05-29 21:13:42.061673 ~ Model v4
 RandomForestClassifier: 1.0
 LogisticRegression: 1.0
 LinearDiscriminantAnalysis: 1.0
@@ -90,12 +64,64 @@ VotingClassifier: 1.0
 --------------------
 
 
-2022-05-29 18:36:50.429644 ~ Model v8
-RandomForestClassifier: 0.609375
-LogisticRegression: 0.609375
-LinearDiscriminantAnalysis: 0.609375
-KNeighborsClassifier: 0.609375
-DecisionTreeClassifier: 0.609375
-SVC: 0.609375
-GaussianNB: 0.40625
-VotingClassifier: 0.609375
+2022-05-29 21:13:51.059349 ~ Model v5
+RandomForestClassifier: 1.0
+LogisticRegression: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+SVC: 1.0
+GaussianNB: 0.0625
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-29 21:13:55.993189 ~ Model v6
+RandomForestClassifier: 1.0
+LogisticRegression: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+SVC: 1.0
+GaussianNB: 0.125
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-29 21:14:13.596083 ~ Model v7
+RandomForestClassifier: 1.0
+LogisticRegression: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+SVC: 1.0
+GaussianNB: 0.1875
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-29 21:14:18.774475 ~ Model v8
+RandomForestClassifier: 1.0
+LogisticRegression: 1.0
+LinearDiscriminantAnalysis: 1.0
+KNeighborsClassifier: 1.0
+DecisionTreeClassifier: 1.0
+SVC: 1.0
+GaussianNB: 0.0
+VotingClassifier: 1.0
+
+--------------------
+
+
+2022-05-29 21:14:28.246315 ~ Model v9
+RandomForestClassifier: 0.8125
+LogisticRegression: 0.8125
+LinearDiscriminantAnalysis: 0.8125
+KNeighborsClassifier: 0.8125
+DecisionTreeClassifier: 0.8125
+SVC: 0.8125
+GaussianNB: 0.8125
+VotingClassifier: 0.8125
